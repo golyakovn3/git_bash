@@ -5,6 +5,6 @@
 
 ## Решение
 * Отправка базовых команд в bash:
-  * Часть 1 - [решение](https://github.com/golyakovn3/git_bash/blob/main/bash1.txt)
-  * Часть 2 - [решение](https://github.com/golyakovn3/git_bash/blob/main/bash2.txt)
+  * Часть 1 - [ссылка](https://github.com/golyakovn3/git_bash/blob/main/bash1.txt)
+  * Часть 2 - [ссылка](https://github.com/golyakovn3/git_bash/blob/main/bash2.txt)
 
